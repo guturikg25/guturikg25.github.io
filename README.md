@@ -1,7 +1,7 @@
 # KalyaniG
 # 👋 Hi, I'm Guturi Kalyani  
 
-🚀 **QA Automation Engineer | SDET | .NET & Python Developer**
+🚀 **QA Automation Engineer | SDET**
 
 I’m a passionate Quality Assurance professional with 7+ years of experience in designing and executing automation frameworks for **.NET, Python, Angular, React**, and cloud environments (**Azure, AWS**).
 

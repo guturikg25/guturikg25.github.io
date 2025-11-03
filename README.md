@@ -17,7 +17,7 @@ I’m a passionate Quality Assurance professional with 7+ years of experience in
 - ###  About Me
 💼   PROFESSIONAL EXPERIENCE
 
-Client: Western Alliance, Franklin, TN                                                                       Aug 2024 – Till Date                                                
+# Client: Western Alliance, Franklin, TN                                                                       Aug 2024 – Till Date                                                
 Role: Software Developer in Test
 
 Responsibilities:
@@ -35,15 +35,10 @@ Responsibilities:
 •	Performed database validation on PostgreSQL and Oracle, writing complex SQL queries to ensure data integrity, reconciliation, and accuracy across systems.
 •	Collaborated in Agile Scrum ceremonies (daily stand-ups, sprint planning, retrospectives), contributing to test strategy, risk identification, and sprint deliverables.
 •	Developed test plans and traceability matrices to map requirements against test coverage, ensuring compliance and minimizing defect leakage.
-•	Partnered with developers and DevOps to embed test automation within CI/CD pipelines, achieving faster release cycles with reliable quality gates.
-•	Conducted security and resilience testing of applications supporting payment processing, identifying vulnerabilities and ensuring robust system performance.
-•	Documented the business requirements into high-level requirements document.
-•	Gathered the requirements and transformed them into high-level Process-Flow Diagram using PowerPoint.
-•	Involved in Managing Data modeling project from Logical design and implementation of Sybase Database
-Environment: QA, Test Planning, Functional, Regression, CI/CD, DevOps, JMeter, Git, JIRA, Bugzilla, Cypress, Documentation, Azure DevOps, Metrics, Testing Tools, Trent Analysis, TestNG, Cypress, xUnit, Agile, Scrum, Waterfall, Strategy, Mentoring, Dashboards, Production Testing, Requirement Analysis, Risk Management, Integration, System, Smoke, Sanity.
 
 
-Client: Nant Health, Morrisville, NC                                                                   Sep 2023 – July 2024                                              
+
+# Client: Nant Health, Morrisville, NC                                                                   Sep 2023 – July 2024                                              
 Role: Senior Software Engineer
 
 Responsibilities:
@@ -66,15 +61,12 @@ Responsibilities:
 •	Set up and maintain test environments, including database and configuration setup, aligned with project needs.
 •	Maintain accurate and organized documentation: test cases, execution logs, test data, and summary reports for audit and traceability.
 •	Communicate testing status, risks, blockers, and coverage reports proactively to all stakeholders.
-•	Assist in planning, coordinating, and executing User Acceptance Testing (UAT) by preparing users, environments, and support materials.
-•	Ensure compliance with enterprise QA standards and testing best practices across all deliverables.
-•	Continuously evaluate and adopt modern testing tools and techniques to improve coverage and test efficiency.
-•	Contribute to QA framework development, reusable test components, and continuous improvement of testing processes across the organization.
+
 
 Environment: Development, Integration, Cypress, xUnit, CI/CD Pipelines, Azure DevOps, QA, System Testing, UAT, Staging, Production, Sandbox, Performance Testing, Load Testing, Stress Testing, Security Testing, Regression Testing, Beta Testing, Pre-Production, Demo Environment, Training Environment, Backup Environment, Disaster Recovery Environment.
 
 
-Client: Aveva, CA                                                                                               Sep 2020 – July 2023                                              
+# Client: Aveva, CA                                                                                               Sep 2020 – July 2023                                              
 Role: QA Tester
 
 Responsibilities:
@@ -95,16 +87,14 @@ Responsibilities:
 •	Championed the adoption of Behavior-Driven Development (BDD) practices, directly enhancing collaboration between developers, QA, and product owners on two critical, complex projects.
 •	Overhauled test processes, cutting down regression testing time by 10 hours per release cycle and accelerating product release cycles through improved automation and test design.
 •	Facilitated alignment across teams by coordinating with fellow QA Engineers to ensure consistent automation standards, processes, and reporting across the platform.
-•	Elevated QA standards through the design, documentation, and implementation of eight new quality assurance best practices, leading to a measurable improvement in team efficiently.
-•	Encouraged innovation by experimenting with new tools and techniques, challenging outdated practices, and implementing improvements that strengthened test efficiency and quality.
-•	Delivered clear QA metrics, progress reports, and defect trends to stakeholders, enabling informed decision-making during planning and release phases.
+
 
 Environment: .NET Core, C#, Python, Selenium WebDriver, PyTest, NUnit, SQL Server, TOAD, HP ALM/Quality Center, JIRA, Jenkins, Azure DevOps, GitHub Actions, Chrome, Firefox, Safari, IE, Windows 10/11.
 
 
 
 
-Client: Accenture, Hyderabad, India                                                               June 2019 – Aug 2020
+# Client: Accenture, Hyderabad, India                                                               June 2019 – Aug 2020
 Role: Test Automation Engineer
 
 Responsibilities:
@@ -130,7 +120,7 @@ Environment: COBOL, DB2, JCL, VSAM, CICS and File Aid, HP Quality Centre, Perfec
 
 
 
-Client:  Unilever, Hyderabad, India                                                                     July 2018 – June 2019                                                                           
+# Client:  Unilever, Hyderabad, India                                                                     July 2018 – June 2019                                                                           
 Role: Automation Engineer
 
 Responsibilities:
@@ -152,7 +142,7 @@ STLC, JIRA, MS Excel, Communication.
 Environments: QA, UAT, Staging, Development, Production, Web, Mobile, Mainframe.
 
 
-Client:  Ridhan Technology, Hyderabad, India                                                          Jan 2018 – Jun 2018                                                                           
+# Client:  Ridhan Technology, Hyderabad, India                                                          Jan 2018 – Jun 2018                                                                           
 Role: Analyst Intern
 
 Responsibilities:
@@ -165,20 +155,19 @@ Responsibilities:
 •	Participated in Agile ceremonies including daily stand-ups, sprint planning, reviews, and retrospectives, contributing to sprint objectives and continuous improvement.
 •	Conducted basic API testing using tools like Postman to verify response status, data integrity, and endpoint behavior.
 •	Maintained detailed test logs, results, and execution reports, ensuring traceability and alignment with business requirements.
-•	Learned and followed QA processes, standards, and industry best practices, continuously improving testing accuracy and efficiency.
-•	Contributed to a collaborative team environment by sharing knowledge, raising concerns early, and adapting quickly to feedback.
+
 Skills: Manual Testing, Defect Tracking, Test Case Design, Functional, UI, Regression, and Smoke Testing, Test Documentation and Reporting, Team Collaboration, Communication, Agile Understanding
 Exposure to Tools: JIRA, Excel, Confluence, Postman (basic)
 
 Environments: QA, UAT, Staging, Development, Production, Web, Mobile, Mainframe.
 
 
-CERTIFICATIONS
+# CERTIFICATIONS
 
 Lean Six Sigma Green belt from Central Michigan University                 Issued Dec 2023
 
 
-EDUCATION DETAILS
+# EDUCATION DETAILS
  
 Master’s in Information System from Central Michigan University
  
